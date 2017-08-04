@@ -1,4 +1,4 @@
-package br.com.zone.meu.trabalho.conversores;
+package br.com.zone.blanck.project.conversores;
 
 import javax.persistence.AttributeConverter;
 import javax.persistence.Converter;

@@ -1,4 +1,4 @@
-package br.com.zone.meu.trabalho.daos;
+package br.com.zone.blanck.project.daos;
 
 import com.mchange.v2.c3p0.ComboPooledDataSource;
 import java.beans.PropertyVetoException;

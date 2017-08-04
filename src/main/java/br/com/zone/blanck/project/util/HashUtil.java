@@ -1,4 +1,4 @@
-package br.com.zone.meu.trabalho.util;
+package br.com.zone.blanck.project.util;
 
 import java.io.UnsupportedEncodingException;
 import java.security.MessageDigest;

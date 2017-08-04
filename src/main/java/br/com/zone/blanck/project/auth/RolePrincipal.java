@@ -1,4 +1,4 @@
-package br.com.zone.meu.trabalho.auth;
+package br.com.zone.blanck.project.auth;
 
 import java.security.Principal;
 

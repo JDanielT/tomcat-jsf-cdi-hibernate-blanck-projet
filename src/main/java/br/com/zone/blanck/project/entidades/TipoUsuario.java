@@ -1,4 +1,4 @@
-package br.com.zone.meu.trabalho.entidades;
+package br.com.zone.blanck.project.entidades;
 
 /**
  *

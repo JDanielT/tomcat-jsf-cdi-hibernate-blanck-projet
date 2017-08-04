@@ -1,9 +1,9 @@
-package br.com.zone.meu.trabalho.managedbeans;
+package br.com.zone.blanck.project.managedbeans;
 
-import br.com.zone.meu.trabalho.daos.DAOGenerico;
-import br.com.zone.meu.trabalho.entidades.BaseEntity;
-import br.com.zone.meu.trabalho.util.MensagemUtil;
-import br.com.zone.meu.trabalho.util.ParameterUtil;
+import br.com.zone.blanck.project.daos.DAOGenerico;
+import br.com.zone.blanck.project.entidades.BaseEntity;
+import br.com.zone.blanck.project.util.MensagemUtil;
+import br.com.zone.blanck.project.util.ParameterUtil;
 import org.hibernate.exception.ConstraintViolationException;
 
 import java.io.Serializable;

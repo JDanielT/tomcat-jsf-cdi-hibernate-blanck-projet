@@ -1,10 +1,10 @@
-package br.com.zone.meu.trabalho.auth;
+package br.com.zone.blanck.project.auth;
 
-import br.com.zone.meu.trabalho.daos.AuthConnectionFactory;
-import br.com.zone.meu.trabalho.entidades.TipoPessoa;
-import br.com.zone.meu.trabalho.entidades.TipoUsuario;
-import br.com.zone.meu.trabalho.entidades.Usuario;
-import br.com.zone.meu.trabalho.util.HashUtil;
+import br.com.zone.blanck.project.daos.AuthConnectionFactory;
+import br.com.zone.blanck.project.entidades.TipoPessoa;
+import br.com.zone.blanck.project.entidades.TipoUsuario;
+import br.com.zone.blanck.project.entidades.Usuario;
+import br.com.zone.blanck.project.util.HashUtil;
 import java.beans.PropertyVetoException;
 
 import javax.security.auth.Subject;

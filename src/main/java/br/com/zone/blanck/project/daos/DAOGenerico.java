@@ -1,7 +1,7 @@
-package br.com.zone.meu.trabalho.daos;
+package br.com.zone.blanck.project.daos;
 
 import br.com.duosoftware.esicduo.manager.daos.transactional.Transacional;
-import br.com.zone.meu.trabalho.entidades.BaseEntity;
+import br.com.zone.blanck.project.entidades.BaseEntity;
 
 import javax.persistence.EntityManager;
 import javax.persistence.Query;

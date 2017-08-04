@@ -1,4 +1,4 @@
-package br.com.zone.meu.trabalho.util;
+package br.com.zone.blanck.project.util;
 
 import javax.faces.application.FacesMessage;
 import javax.faces.context.FacesContext;

@@ -1,6 +1,6 @@
-package br.com.zone.meu.trabalho.entidades;
+package br.com.zone.blanck.project.entidades;
 
-import br.com.zone.meu.trabalho.conversores.LocalDatePersistenceConverter;
+import br.com.zone.blanck.project.conversores.LocalDatePersistenceConverter;
 import java.time.LocalDate;
 import org.hibernate.validator.constraints.Email;
 
